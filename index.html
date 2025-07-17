@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Museo Virtual Interactivo del México Prehispánico</title>
+  <link rel="icon" type="image/png" href="assets/icon.png">
+  <link rel="shortcut icon" type="image/png" href="assets/icon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/aframe.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <script src="js/troika.min.js"></script>
+
+</head>
+
+<body>
+  <div id="bienvenida-container"
+    style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #000a; color: white; display: flex; align-items: center; justify-content: center; z-index: 9999; flex-direction: column;">
+    <h2>¡Bienvenido al Museo Virtual Interactivo del México Prehispánico!</h2>
+    <button type="button" class="btn btn-dark" id="iniciarBtn"
+      style="padding: 1rem 2rem; font-size: 1.2rem;">Empezar</button>
+  </div>
+
+  <a-scene cursor="rayOrigin: mouse">
+    <a-entity camera look-controls wasd-controls position="0 1.6 0">
+      <a-entity cursor="fuse: false; fuseTimeout: 500" position="0 0 -1"
+        geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03" material="color: red; shader: flat">
+      </a-entity>
+      <!-- Panel HUD flotante -->
+      <a-entity id="info-panel" visible="false" position="0 .3 -1.5" rotation="-15 0 0">
+        <a-plane height="1.5" width="4.5" color="#fff" opacity="0.9">
+          <a-entity id="info-text" troika-text="value: ; color: black; fontSize: 0.10; maxWidth: 4; align: left"
+            position="0 0 0.01"></a-entity>
+        </a-plane>
+
+        <!-- Botón de cerrar -->
+        <a-plane id="cerrar-hud-btn" class="clickable" position="0 -0.9 0.01" width="1" height="0.3" color="#e53935">
+          <a-text value="Cerrar" align="center" position="0 0 0.01" color="#ffffff"></a-text>
+        </a-plane>
+
+      </a-entity>
+    </a-entity>
+
+    //Estructura del museo
+    <a-box static-body position="-3.15 1.5 -1.5" rotation="0 0 0" width=".3" height="3" depth="12"
+      material="src: assets/pared.jpg"></a-box>
+    <a-box static-body position="3.15 1.5 -1.5" rotation="0 0 0" width=".3" height="3" depth="12"
+      material="src: assets/pared.jpg"></a-box>
+    <a-box static-body position="0 1.5 -7.65" rotation="0 90 0" width=".3" height="3" depth="6.6"
+      material="src: assets/pared.jpg"></a-box>
+    <a-box static-body position="0 1.5 4.65" rotation="0 90 0" width=".3" height="3" depth="6.6"
+      material="src: assets/pared.jpg"></a-box>
+
+
+    <a-plane position="0 0 -4.5" rotation="-90 90 0" width="6" height="6" material="src: assets/suelo.jpg"></a-plane>
+    <a-plane position="0 0 1.5" rotation="-90 90 0" width="6" height="6" material="src: assets/suelo.jpg"></a-plane>
+
+
+    <a-plane position="0 3 -4.5" rotation="90 0 0" width="6" height="6" material="src: assets/techo.jpg"></a-plane>
+    <a-plane position="0 3 1.5" rotation="90 0 0" width="6" height="6" material="src: assets/techo.jpg"></a-plane>
+
+
+    <a-box position="0 .5 -7" width="1" height="1" depth="1" material="src: assets/repisa.jpg"></a-box>
+    <a-box position="-2.45 .5 -4.5" width="1" height="1" depth="1" material="src: assets/repisa.jpg"></a-box>
+    <a-box position="2.45 .5 -4.5" width="1" height="1" depth="1" material="src: assets/repisa.jpg "></a-box>
+
+    <a-box position="1.3 .5 4" width="1" height="1" depth="1" material="src: assets/repisa.jpg "></a-box>
+
+    <a-gltf-model src="assets/quetzalcoatl.glb" position="1.3 1.2 3.95" scale=".01 .01 .01" rotation="25 180 0"
+      class="interactivo" data-nombre="Quetzalcóatl">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/aztec_calendar_stone.glb" position="-2.95 1.2 0" scale=".5 .5 .5" rotation="0 90 0"
+      class="interactivo" data-nombre="Calendario Solar">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/coyolxauhqui_stone_at_templo_mayor.glb" position="2.95 2.3 0" scale=".1 .1 .1"
+      rotation="90 0 90" class="interactivo" data-nombre="Coyolxauhqui">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/cabeza_olmeca.glb" position="-1.3 0 3.85" scale=".5 .5 .5" rotation="0 90 0"
+      class="interactivo" data-nombre="Cabeza colosal">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/chichen_itza.glb" position="0 1.35 -7" scale="1 1 1" class="interactivo"
+      data-nombre="Pirámide de Kukulkán">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/templo_mayor.glb" position="-2.45 1.2 -4.5" scale="1 1 1" class="interactivo"
+      data-nombre="Templo Mayor">
+    </a-gltf-model>
+
+    <a-gltf-model src="assets/macuahuitl_aztec_sword_model.glb" rotation="90 90 -45" position="2.05 1.05 -4.1"
+      scale=".3 .3 .3" class="interactivo" data-nombre="Macuahuitl">
+    </a-gltf-model>
+
+
+    <a-sky color="skyblue"></a-sky>
+  </a-scene>
+
+
+
+  <div id="asistente-container">
+    <button type="button" class="btn btn-dark" id="abrirChat">🧠</button>
+    <div id="chat-container" style="display: none;">
+      <div id="chat-header">
+        <span style="color: white;">🤖 Asistente Virtual (Xamani)</span>
+        <button type="button" class="btn btn-dark" id="minimizarChat">−</button>
+      </div>
+      <div id="resultado"></div>
+      <div class="chat-controles">
+        <input id="entrada" type="text" placeholder="Escribe aquí...">
+        <button type="button" class="btn btn-dark" id="enviarBtn">⬆️</button>
+        <button type="button" class="btn btn-dark" id="hablarBtn">🎙️</button>
+        <button type="button" class="btn btn-dark" id="btnTrivia">🎮</button>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="asistente-container"></div>
+    <div class="modal" id="modalTrivia">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 id="preguntaTrivia" class="modal-title">Pregunta</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <input type="text" class="form-control" id="respuestaTrivia" placeholder="Escribe tu respuesta" />
+            <p id="retroTrivia" style="margin-top: 10px;"></p>
+          </div>
+          <div class="modal-footer">
+            <button onclick="cerrarModalTrivia()" type="button" class="btn btn-secondary"
+              data-bs-dismiss="modal">Cerrar</button>
+            <button id="verificarTrivia" type="button" class="btn btn-dark">Verificar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <div style="position: fixed; bottom: 0; left: 10%; width: 100%; height: 40px; color: white; display: flex; align-items: center; justify-content: center; z-index: 9999; flex-direction: column;">
+    <footer >
+        <p>Desarrollado por <a href="https://github.com/EdsonCueGal" target="_blank">Edson Cuello Galván</a> &copy; 2025 Museo Virtual Interactivo del México Prehispánico. Todos los derechos reservados.</p>
+    </footer>
+  </div>
+
+    <script src="js/main.js" defer></script>
+</body>
+
+</html>

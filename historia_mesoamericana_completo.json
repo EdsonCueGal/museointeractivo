@@ -1,0 +1,1102 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿quiénes eran los dioses mexicas?",
+            "respuesta": "Los dioses mexicas incluían a Huitzilopochtli (dios de la guerra), Quetzalcóatl (dios del viento y sabiduría), y Tláloc (dios de la lluvia).",
+            "tema": "dioses",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿quién es el dios de la lluvia?",
+            "respuesta": "Tláloc es el dios mexica de la lluvia, el rayo y la fertilidad, y también está asociado con la montaña y la cueva. Era considerado el rey de los fenómenos atmosféricos y el espíritu de las montañas. Su culto era muy importante para las sociedades agrícolas, ya que de él dependía la lluvia y, por ende, la posibilidad de cosechas abundantes.",
+            "tema": "dioses",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué civilizaciones prehispánicas hubo en méxico?",
+            "respuesta": "En México existieron varias civilizaciones prehispánicas como los olmecas, mayas, zapotecas, mixtecas, toltecas, mexicas, entre otras.",
+            "tema": "civilizaciones",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es un códice?",
+            "respuesta": "Un códice es un manuscrito ilustrado que contiene información histórica, religiosa o genealógica de los pueblos mesoamericanos.",
+            "tema": "códices",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿cuáles son los códices más importantes?",
+            "respuesta": "Entre los códices más importantes están el Códice Borgia, Códice Mendoza, Códice Florentino y el Códice Dresde.",
+            "tema": "códices",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué pasó en la conquista de méxico?",
+            "respuesta": "La conquista de México fue la invasión y sometimiento del Imperio mexica por parte de los españoles, liderados por Hernán Cortés entre 1519 y 1521.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿quién fue moctezuma?",
+            "respuesta": "Moctezuma II fue el emperador mexica que gobernaba cuando llegaron los españoles.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿quién fue cuauhtémoc?",
+            "respuesta": "Cuauhtémoc fue el último emperador mexica, conocido por resistir la conquista hasta su captura en 1521.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué pasó en 1521?",
+            "respuesta": "En 1521, cayó Tenochtitlán, marcando el fin del Imperio mexica y el inicio del dominio español.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es chichén itzá?",
+            "respuesta": "Chichén Itzá es una ciudad maya ubicada en Yucatán, famosa por su pirámide de Kukulkán.",
+            "tema": "lugares",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es teotihuacán?",
+            "respuesta": "Teotihuacán fue una ciudad prehispánica conocida por sus pirámides del Sol y la Luna.",
+            "tema": "civilizaciones",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es la piedra del sol?",
+            "respuesta": "La Piedra del Sol, también conocida como calendario azteca, es un monolito que representa la cosmovisión mexica.",
+            "tema": "arquitectura",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿cuáles eran los principales dioses mayas?",
+            "respuesta": "Entre los dioses mayas estaban Itzamná, Kukulkán, Chaac, Ix Chel y Hunab Ku.",
+            "tema": "dioses",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es una pirámide mesoamericana?",
+            "respuesta": "Las pirámides mesoamericanas eran estructuras ceremoniales construidas por culturas como los mayas, mexicas y zapotecas.",
+            "tema": "arquitectura",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es el códice florentino?",
+            "respuesta": "El Códice Florentino es una obra escrita por Fray Bernardino de Sahagún que documenta la cultura mexica en náhuatl y español.",
+            "tema": "códices",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es el códice mendoza?",
+            "respuesta": "El Códice Mendoza es un manuscrito que describe la historia, cultura y tributos del Imperio mexica.",
+            "tema": "códices",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es el códice borgia?",
+            "respuesta": "El Códice Borgia es un códice prehispánico de carácter religioso, lleno de símbolos y rituales.",
+            "tema": "códices",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿quién fue hernán cortés?",
+            "respuesta": "Hernán Cortés fue el conquistador español que lideró la caída del Imperio mexica.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿quién fue la malinche?",
+            "respuesta": "La Malinche, también conocida como Malintzin o Doña Marina, fue una mujer indígena que sirvió de intérprete y consejera a Hernán Cortés.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué idiomas se hablaban en méxico antiguo?",
+            "respuesta": "Se hablaban muchos idiomas como náhuatl, maya, zapoteco, mixteco, totonaco, otomí, entre otros.",
+            "tema": "general",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué fue la noche triste?",
+            "respuesta": "La Noche Triste fue una derrota sufrida por los españoles al intentar huir de Tenochtitlán en 1520, perdiendo gran parte de sus tropas.",
+            "tema": "conquista",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es una estatua prehispánica?",
+            "respuesta": "Las estatuas prehispánicas eran representaciones de dioses, gobernantes o figuras simbólicas esculpidas en piedra o barro.",
+            "tema": "arquitectura",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué es Telpochcalli?",
+            "respuesta": "Era una escuela mexica para jóvenes de clases bajas, donde se enseñaban habilidades militares, religiosas y cívicas, preparando a los jóvenes para su papel en la sociedad.",
+            "tema": "educación",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué era guerrero águila?",
+            "respuesta": "Era un rango militar de élite en la sociedad mexica, compuesto por los guerreros más valientes y exitosos en combate.",
+            "tema": "militar",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        },
+        {
+            "pregunta": "¿qué era guerrero jaguar?",
+            "respuesta": "Era un rango militar de élite en la sociedad mexica, conocido por su ferocidad en la batalla, un símbolo de poder y fuerza.",
+            "tema": "militar",
+            "categoria": "trivia",
+            "nivel": "fácil"
+        }
+    ],
+    "civilizaciones": [
+        {
+            "nombre": "Olmeca",
+            "descripcion": "Se les considera la 'cultura madre' de Mesoamérica debido a su influencia en las culturas posteriores, como la maya y la azteca. Su nombre, de origen náhuatl, significa 'habitantes de la región del hule'.",
+            "periodo": "1200 a.C. - 400 a.C.",
+            "region": "Golfo de México",
+            "ciudades": [
+                "La Venta",
+                "San Lorenzo",
+                "Tres Zapotes"
+            ],
+            "dioses": [
+                {
+                    "nombre": "Dios Jaguar",
+                    "descripcion": "Era una figura central en la religión y mitología olmeca, siendo visto como un poderoso ser sobrenatural y un símbolo de autoridad y poder. Los olmecas lo asociaban con la tierra, la noche y la oscuridad, y lo consideraban una deidad principal o, al menos, un aspecto importante de su sistema religioso."
+                },
+                {
+                    "nombre": "Dragón Olmeca",
+                    "descripcion": "El 'dragón olmeca' es una figura mitológica clave en la cultura olmeca, representada como un ser con rasgos de cocodrilo, ave y jaguar, y a veces con características humanas. Se le considera una deidad asociada con la tierra, la agricultura, la fertilidad, el fuego y lo sobrenatural, y posiblemente con las clases gobernantes. No es un dragón en el sentido europeo, sino una representación de fuerzas de la naturaleza y conceptos religiosos olmecas."
+                }
+            ],
+            "aportaciones": [
+                "Primera civilización mesoamericana",
+                "Escritura jeroglífica primitiva",
+                "Calendario mesoamericano",
+                {
+                    "Cabezas colosales": "Son esculturas monumentales de basalto, asociadas a la cultura olmeca, que representan cabezas humanas con rasgos faciales distintivos y tocados elaborados. Se consideran un símbolo emblemático de esta civilización mesoamericana. "
+                },
+                "Concepto del jaguar como figura sagrada"
+            ]
+        },
+        {
+            "nombre": "Maya",
+            "descripcion": "Civilización mesoamericana que floreció en la región que hoy comprende el sureste de México, Guatemala, Belice, Honduras y El Salvador. Eran conocidos por su avanzada cultura, que incluía logros en matemáticas, astronomía, escritura, arte, arquitectura y agricultura.",
+            "periodo": "2000 a.C. - 1697 d.C.",
+            "region": "Sureste de México, Guatemala, Belice, Honduras",
+            "ciudades": [
+                "Tikal",
+                "Palenque",
+                "Chichén Itzá",
+                "Uxmal",
+                "Copán"
+            ],
+            "dioses": [
+                {
+                    "nombre": "Itzamná",
+                    "descripcion": "Es una figura central en la mitología maya, considerado el dios supremo, creador del universo y maestro de la sabiduría."
+                },
+                {
+                    "nombre": "Kukulkán",
+                    "descripcion": "Es una deidad asociada a la serpiente emplumada, similar a Quetzalcóatl en otras culturas mesoamericanas. Es considerado un dios creador, relacionado con el viento, el agua y la fertilidad, y es especialmente venerado en Chichén Itzá. Además de su función mitológica, Kukulcán también es un héroe cultural y un símbolo de la identidad cultural maya."
+                },
+                {
+                    "nombre": "Chaac",
+                    "descripcion": "Es el dios de la lluvia, el trueno, el relámpago y el agua. Se le representa con una nariz prominente y colmillos curvos, a menudo con un hacha con la que golpea las nubes para provocar la lluvia. Se le considera una deidad fundamental para la agricultura y la vida, ya que la lluvia que trae es esencial para las cosechas."
+                },
+                {
+                    "nombre": "Ix chel",
+                    "descripcion": "Es la diosa maya asociada con la luna, la fertilidad, la medicina y el parto. Es una figura compleja que puede ser representada como una joven o una anciana, y está vinculada a ciclos de la naturaleza como la luna y la lluvia."
+                },
+                {
+                    "nombre": "Hunab Ku",
+                    "descripcion": "Es considerado el dios supremo, el 'único dios', creador del universo y de la humanidad."
+                }
+            ],
+            "aportaciones": [
+                {
+                    "Calendario solar": "Tambinén conocido como Haab basa en el movimiento de la Tierra alrededor del Sol y se utiliza para medir el tiempo en función de las estaciones. El calendario gregoriano, el calendario más comúnmente utilizado a nivel mundial, es un ejemplo de calendario solar."
+                },
+                {
+                    "Calendario Lunar": "También conocido como Tzolk'in o Chol Q'ij, no se basa en meses lunares como los calendarios occidentales, sino en una combinación de 20 días con números del 1 al 13, creando un ciclo de 260 días únicos. Este calendario sagrado se usaba para propósitos rituales y ceremoniales, mientras que otro calendario, el Haab, se utilizaba para el ciclo solar anual de 365 días."
+                },
+                "Sistema matemático con el número cero",
+                "Escritura jeroglífica compleja",
+                "Avances astronómicos",
+                "Arquitectura monumental"
+            ]
+        },
+        {
+            "nombre": "Teotihuacan",
+            "descripcion": "Una de las civilizaciones más importantes de Mesoamérica. Se destacaron por su impresionante arquitectura, su avanzada organización social y su influencia cultural en otras regiones.",
+            "periodo": "100 a.C. - 750 d.C.",
+            "region": "Altiplano Central de México",
+            "ciudades": [
+                "Teotihuacán"
+            ],
+            "dioses": [
+                {
+                    "nombre": "Tláloc",
+                    "descripcion": "Considerado el dios de la lluvia, la fertilidad y las aguas, vital para la agricultura en Teotihuacán. Se le representaba con grandes ojos y colmillos, a menudo con adornos relacionados con el agua."
+                },
+                {
+                    "nombre": "Quetzalcóatl",
+                    "descripcion": "La serpiente emplumada, símbolo de la sabiduría, el conocimiento, la creación y la fertilidad. Su culto fue muy importante en Teotihuacán y otras culturas mesoamericanas, y se le representaba en templos, murales y esculturas."
+                },
+                {
+                    "nombre": "Chalchiuhtlicue",
+                    "descripcion": "Diosa del agua, los lagos y los ríos, a menudo asociada con Tláloc. Era la contraparte femenina de Tláloc y se le consideraba protectora de los nacimientos y la vida acuática."
+                },
+                {
+                    "nombre": "Huehuetéotl",
+                    "descripcion": "El dios viejo del fuego, una de las deidades más antiguas de Mesoamérica. Se le representaba sentado, con un brasero en la cabeza y asociado con el calendario solar y el origen del fuego."
+                }
+            ],
+            "aportaciones": [
+                "Pirámide del Sol y la Luna",
+                "Calzada de los Muertos",
+                "Planeación urbana",
+                "Influencia cultural en toda Mesoamérica"
+            ]
+        },
+        {
+            "nombre": "Zapoteca",
+            "descripcion": "Una antigua civilización mesoamericana que floreció en el valle de Oaxaca, México. Se destacaron por su desarrollo cultural y arquitectónico, especialmente en Monte Albán, su principal centro ceremonial y ciudad-estado. Los zapotecas fueron un pueblo sedentario, agricultores, y politeístas, con una rica tradición religiosa y artística.",
+            "periodo": "500 a.C. - 800 d.C.",
+            "region": "Valle de Oaxaca",
+            "ciudades": [
+                "Monte Albán",
+                "Mitla"
+            ],
+            "dioses": [
+                {
+                    "nombre": "Cocijo",
+                    "descripcion": "Es una deidad importante en la cultura zapoteca, asociado con la lluvia, el rayo y fenómenos pluviales, así como con la tierra y la agricultura."
+                },
+                {
+                    "nombre": "Coqui Bezelao",
+                    "descripcion": "Dios de la Muerte y el Inframundo. También conocido como Pitao Pezelao, Lira Huila, o Trece Mono. Según los misioneros españoles el ‘‘Principal de los diablos”."
+                }
+            ],
+            "aportaciones": [
+                "Escritura logosilábica",
+                "Primeras tumbas monumentales",
+                "Calendario zapoteca",
+                "Cerámica funeraria"
+            ]
+        },
+        {
+            "nombre": "Tolteca",
+            "descripcion": "Una antigua civilización mesoamericana que floreció en el centro de México. Se establecieron principalmente en la región de Tula, Hidalgo, y son conocidos por su influencia en otras culturas mesoamericanas, como los mayas y los aztecas.",
+            "periodo": "900 - 1150 d.C.",
+            "region": "Hidalgo y centro de México",
+            "ciudades": [
+                "Tula"
+            ],
+            "dioses": [
+                {
+                    "nombre": "Quetzalcóatl",
+                    "descripcion": "La serpiente emplumada, símbolo de la sabiduría, el conocimiento, la creación y la fertilidad. Su culto fue muy importante en Teotihuacán y otras culturas mesoamericanas, y se le representaba en templos, murales y esculturas."
+                },
+                {
+                    "nombre": "Tezcatlipoca",
+                    "descripcion": "Era una deidad fundamental en la mitología mexica, considerada omnipresente, omnipotente y omnisciente. Se le asociaba con la noche, el norte, la guerra, la discordia, la magia, la belleza, la tentación y la providencia."
+                }
+            ],
+            "aportaciones": [
+                "Estatuas de atlantes",
+                "Expansión militar y cultural",
+                "Fusión de culturas del norte y sur",
+                "Influencia sobre los mexicas"
+            ]
+        },
+        {
+            "nombre": "Mexica",
+            "descripcion": "También conocidos como aztecas, fueron un pueblo mesoamericano que dominó gran parte del territorio actual de México. Fueron los últimos en llegar al Valle de México y fundaron su capital, México-Tenochtitlan, en una isla del lago Texcoco. Su imperio se caracterizó por su sistema político y social complejo, su rica cultura, su habilidad militar y sus avances en arquitectura y arte.",
+            "periodo": "1325 - 1521 d.C.",
+            "region": "Valle de México",
+            "ciudades": [
+                "Tenochtitlan"
+            ],
+            "dioses": [
+                {
+                    "nombre": "Huitzilopochtli",
+                    "descripcion": "Era una figura central en la mitología mexica, asociado con el sol, la guerra, y la fundación de la ciudad de México-Tenochtitlán. Su nombre, que significa 'colibrí zurdo' o 'colibrí del sur', se relaciona con su leyenda de nacimiento y su papel como guía y protector del pueblo mexica."
+                },
+                {
+                    "nombre": "Tláloc",
+                    "descripcion": "Considerado el dios de la lluvia, la fertilidad y las aguas, vital para la agricultura en Teotihuacán. Se le representaba con grandes ojos y colmillos, a menudo con adornos relacionados con el agua."
+                },
+                {
+                    "nombre": "Tezcatlipoca",
+                    "descripcion": "Era una deidad fundamental en la mitología mexica, considerada omnipresente, omnipotente y omnisciente. Se le asociaba con la noche, el norte, la guerra, la discordia, la magia, la belleza, la tentación y la providencia."
+                },
+                {
+                    "nombre": "Xipe Tótec",
+                    "descripcion": "Era una deidad importante en la mitología mesoamericana, especialmente entre los aztecas. Era un dios de la agricultura, la fertilidad, la vegetación, la muerte, el renacimiento y la renovación, asociado con la primavera y la siembra."
+                }
+            ],
+            "aportaciones": [
+                "Chinampas (cultivo en lagos)",
+                "Gran Imperio expansionista",
+                "Sacrificios rituales",
+                "Templo Mayor",
+                "Sistema de tributos y comercio"
+            ]
+        }
+    ],
+    "dioses_indexados": {
+        "lluvia": [
+            {
+                "nombre": "Dragón Olmeca",
+                "civilizacion": "Olmeca",
+                "descripcion": "El 'dragón olmeca' es una figura mitológica clave en la cultura olmeca, representada como un ser con rasgos de cocodrilo, ave y jaguar, y a veces con características humanas. Se le considera una deidad asociada con la tierra, la agricultura, la fertilidad, el fuego y lo sobrenatural, y posiblemente con las clases gobernantes. No es un dragón en el sentido europeo, sino una representación de fuerzas de la naturaleza y conceptos religiosos olmecas."
+            },
+            {
+                "nombre": "Kukulkán",
+                "civilizacion": "Maya",
+                "descripcion": "Es una deidad asociada a la serpiente emplumada, similar a Quetzalcóatl en otras culturas mesoamericanas. Es considerado un dios creador, relacionado con el viento, el agua y la fertilidad, y es especialmente venerado en Chichén Itzá. Además de su función mitológica, Kukulcán también es un héroe cultural y un símbolo de la identidad cultural maya."
+            },
+            {
+                "nombre": "Chaac",
+                "civilizacion": "Maya",
+                "descripcion": "Es el dios de la lluvia, el trueno, el relámpago y el agua. Se le representa con una nariz prominente y colmillos curvos, a menudo con un hacha con la que golpea las nubes para provocar la lluvia. Se le considera una deidad fundamental para la agricultura y la vida, ya que la lluvia que trae es esencial para las cosechas."
+            },
+            {
+                "nombre": "Ix chel",
+                "civilizacion": "Maya",
+                "descripcion": "Es la diosa maya asociada con la luna, la fertilidad, la medicina y el parto. Es una figura compleja que puede ser representada como una joven o una anciana, y está vinculada a ciclos de la naturaleza como la luna y la lluvia.."
+            },
+            {
+                "nombre": "Tláloc",
+                "civilizacion": "Teotihuacan",
+                "descripcion": "Considerado el dios de la lluvia, la fertilidad y las aguas, vital para la agricultura en Teotihuacán. Se le representaba con grandes ojos y colmillos, a menudo con adornos relacionados con el agua."
+            },
+            {
+                "nombre": "Quetzalcóatl",
+                "civilizacion": "Teotihuacan, Tolteca",
+                "descripcion": "La serpiente emplumada, símbolo de la sabiduría, el conocimiento, la creación y la fertilidad. Su culto fue muy importante en Teotihuacán y otras culturas mesoamericanas, y se le representaba en templos, murales y esculturas."
+            },
+            {
+                "nombre": "Chalchiuhtlicue",
+                "civilizacion": "Teotihuacan",
+                "descripcion": "Diosa del agua, los lagos y los ríos, a menudo asociada con Tláloc. Era la contraparte femenina de Tláloc y se le consideraba protectora de los nacimientos y la vida acuática."
+            },
+            {
+                "nombre": "Cocijo",
+                "civilizacion": "Zapoteca",
+                "descripcion": "Es una deidad importante en la cultura zapoteca, asociado con la lluvia, el rayo y fenómenos pluviales, así como con la tierra y la agricultura."
+            },
+            {
+                "nombre": "Tláloc",
+                "civilizacion": "Mexica (Azteca)",
+                "descripcion": "Considerado el dios de la lluvia, la fertilidad y las aguas, vital para la agricultura en Teotihuacán. Se le representaba con grandes ojos y colmillos, a menudo con adornos relacionados con el agua."
+            }
+        ],
+        "sabiduría": [
+            {
+                "nombre": "Itzamná",
+                "civilizacion": "Maya",
+                "descripcion": "Es una figura central en la mitología maya, considerado el dios supremo, creador del universo y maestro de la sabiduría."
+            },
+            {
+                "nombre": "Xipe Tótec",
+                "civilizacion": "Mexica (Azteca)",
+                "descripcion": "Era una deidad importante en la mitología mesoamericana, especialmente entre los aztecas. Era un dios de la agricultura, la fertilidad, la vegetación, la muerte, el renacimiento y la renovación, asociado con la primavera y la siembra."
+            }
+        ],
+        "creación": [
+            {
+                "nombre": "Hunab Ku",
+                "civilizacion": "Maya",
+                "descripcion": "Es considerado el dios supremo, el 'único dios', creador del universo y de la humanidad."
+            },
+            {
+                "nombre": "Xipe Tótec",
+                "civilizacion": "Mexica (Azteca)",
+                "descripcion": "Era una deidad importante en la mitología mesoamericana, especialmente entre los aztecas. Era un dios de la agricultura, la fertilidad, la vegetación, la muerte, el renacimiento y la renovación, asociado con la primavera y la siembra."
+            }
+        ],
+        "fuego": [
+            {
+                "nombre": "Huehuetéotl",
+                "civilizacion": "Teotihuacan",
+                "descripcion": "El dios viejo del fuego, una de las deidades más antiguas de Mesoamérica. Se le representaba sentado, con un brasero en la cabeza y asociado con el calendario solar y el origen del fuego."
+            }
+        ],
+        "muerte": [
+            {
+                "nombre": "Coqui Bezelao",
+                "civilizacion": "Zapoteca",
+                "descripcion": "Dios de la Muerte y el Inframundo. También conocido como Pitao Pezelao, Lira Huila, o Trece Mono. Según los misioneros españoles el ‘‘Principal de los diablos”."
+            }
+        ],
+        "guerra": [
+            {
+                "nombre": "Tezcatlipoca",
+                "civilizacion": "Tolteca",
+                "descripcion": "Era una deidad fundamental en la mitología mexica, considerada omnipresente, omnipotente y omnisciente. Se le asociaba con la noche, el norte, la guerra, la discordia, la magia, la belleza, la tentación y la providencia."
+            },
+            {
+                "nombre": "Huitzilopochtli",
+                "civilizacion": "Mexica (Azteca)",
+                "descripcion": "Era una figura central en la mitología mexica, asociado con el sol, la guerra, y la fundación de la ciudad de México-Tenochtitlán. Su nombre, que significa 'colibrí zurdo' o 'colibrí del sur', se relaciona con su leyenda de nacimiento y su papel como guía y protector del pueblo mexica."
+            },
+            {
+                "nombre": "Tezcatlipoca",
+                "civilizacion": "Mexica (Azteca)",
+                "descripcion": "Era una deidad fundamental en la mitología mexica, considerada omnipresente, omnipotente y omnisciente. Se le asociaba con la noche, el norte, la guerra, la discordia, la magia, la belleza, la tentación y la providencia."
+            }
+        ]
+    },
+    "obras_destacadas": [
+        {
+            "nombre": "Cabeza colosal",
+            "civilizacion": "Olmeca",
+            "tipo": "Escultura",
+            "material": "Basalto",
+            "ubicacion": [
+                "San Lorenzo",
+                "La Venta",
+                "Tres Zapotes"
+            ],
+            "descripcion": "Esculturas monumentales que representan cabezas humanas con rasgos faciales distintivos. Son consideradas un símbolo emblemático de la cultura olmeca y muestran el dominio del tallado en piedra."
+        },
+        {
+            "nombre": "Pirámide del Sol",
+            "civilizacion": "Teotihuacana",
+            "tipo": "Pirámide",
+            "material": "Piedra",
+            "ubicacion": [
+                "Teotihuacán"
+            ],
+            "descripcion": "Una de las pirámides más grandes de Mesoamérica, alineada con fenómenos astronómicos y ubicada sobre la Calzada de los Muertos. Es un símbolo del poder religioso y arquitectónico de Teotihuacán."
+        },
+        {
+            "nombre": "Templo Mayor",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Templo",
+            "material": "Piedra y estuco",
+            "ubicacion": [
+                "Tenochtitlan"
+            ],
+            "descripcion": "Centro ceremonial más importante del Imperio mexica, dedicado a Huitzilopochtli y Tláloc. Era escenario de rituales, sacrificios y eventos religiosos clave."
+        },
+        {
+            "nombre": "La Gran Tenochtitlan",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Ciudad",
+            "material": "Piedra y adobe",
+            "ubicacion": [
+                "Tenochtitlan"
+            ],
+            "descripcion": "La capital del Imperio Mexica, construida sobre una serie de islas en el lago de Texcoco, con una compleja red de canales y chinampas."
+        },
+        {
+            "nombre": "Chichén Itzá",
+            "civilizacion": "Maya",
+            "tipo": "Ciudad",
+            "material": "Piedra",
+            "ubicacion": [
+                "Yucatán"
+            ],
+            "descripcion": "Una de las ciudades más importantes de la civilización maya, famosa por su pirámide de Kukulkán, el observatorio astronómico y su arquitectura monumental."
+        },
+        {
+            "nombre": "Monte Albán",
+            "civilizacion": "Zapoteca",
+            "tipo": "Ciudad ceremonial",
+            "material": "Piedra",
+            "ubicacion": [
+                "Valle de Oaxaca"
+            ],
+            "descripcion": "Centro ceremonial y político de los zapotecas, con una rica tradición arquitectónica y cultural, incluyendo tumbas monumentales y plazas ceremoniales."
+        },
+        {
+            "nombre": "Tikal",
+            "civilizacion": "Maya",
+            "tipo": "Ciudad",
+            "material": "Piedra",
+            "ubicacion": [
+                "Guatemala"
+            ],
+            "descripcion": "Una de las ciudades más grandes y poderosas de la civilización maya, conocida por sus impresionantes pirámides y su influencia política y económica."
+        },
+        {
+            "nombre": "Copán",
+            "civilizacion": "Maya",
+            "tipo": "Ciudad",
+            "material": "Piedra",
+            "ubicacion": [
+                "Honduras"
+            ],
+            "descripcion": "Una de las ciudades más importantes de la civilización maya, conocida por sus estelas esculpidas y su arquitectura monumental."
+        },
+        {
+            "nombre": "Palenque",
+            "civilizacion": "Maya",
+            "tipo": "Ciudad",
+            "material": "Piedra",
+            "ubicacion": [
+                "Chiapas"
+            ],
+            "descripcion": "Una de las ciudades más importantes de la civilización maya, famosa por sus templos y palacios, así como por su rica iconografía y escritura jeroglífica."
+        },
+        {
+            "nombre": "Macuahuitl",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Armas",
+            "material": "Madera y obsidiana",
+            "ubicacion": [
+                "Tenochtitlan"
+            ],
+            "descripcion": "Un arma de combate utilizada por los mexicas, hecha de madera con bordes afilados de obsidiana. Era utilizada tanto en combate cuerpo a cuerpo como en ceremonias rituales."
+        },
+        {
+            "nombre": "Estatua de Coatlicue",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Escultura",
+            "material": "Piedra",
+            "ubicacion": [
+                "Tenochtitlan"
+            ],
+            "descripcion": "Una escultura monumental que representa a la diosa madre Coatlicue, con una rica iconografía que simboliza la dualidad de la vida y la muerte."
+        },
+        {
+            "nombre": "Estela de Copán",
+            "civilizacion": "Maya",
+            "tipo": "Estela",
+            "material": "Piedra",
+            "ubicacion": [
+                "Copán, Honduras"
+            ],
+            "descripcion": "Una de las estelas más famosas de la civilización maya, que narra eventos históricos y ritos ceremoniales, con inscripciones jeroglíficas detalladas."
+        },
+        {
+            "nombre": "Templo de las Inscripciones",
+            "civilizacion": "Maya",
+            "tipo": "Templo",
+            "material": "Piedra",
+            "ubicacion": [
+                "Palenque, Chiapas"
+            ],
+            "descripcion": "Un templo funerario dedicado al rey Pakal el Grande, famoso por sus inscripciones jeroglíficas y su rica iconografía que narra la historia de la dinastía de Palenque."
+        },
+        {
+            "nombre": "Pirámide de La Venta",
+            "civilizacion": "Olmeca",
+            "tipo": "Pirámide",
+            "material": "Tierra y piedra",
+            "ubicacion": [
+                "La Venta, Tabasco"
+            ],
+            "descripcion": "Una de las estructuras más emblemáticas de la civilización olmeca, representando su poder religioso y político, con una rica iconografía y simbolismo."
+        },
+        {
+            "nombre": "Calendario Maya",
+            "civilizacion": "Maya",
+            "tipo": "Calendario",
+            "material": "Piedra",
+            "ubicacion": [
+                "Yucatán"
+            ],
+            "descripcion": "Un sistema calendárico complejo utilizado por los mayas, que combina ciclos solares y lunares, y es fundamental para su comprensión del tiempo, la agricultura y los rituales religiosos."
+        }, 
+        {
+            "nombre": "Códice Borgia",
+            "civilizacion": "Mesoamericana",
+            "tipo": "Códice",
+            "material": "Papel amate",
+            "ubicacion": [
+                "México"
+            ],
+            "descripcion": "Un códice prehispánico de carácter religioso, lleno de símbolos y rituales, que proporciona una visión única de la cosmología y la religión mesoamericana."
+        },
+        {
+            "nombre": "Códice Mendoza",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Códice",
+            "material": "Papel amate",
+            "ubicacion": [
+                "México"
+            ],
+            "descripcion": "Un manuscrito que describe la historia, cultura y tributos del Imperio mexica, considerado una de las fuentes más importantes sobre la civilización azteca."
+        },
+        {
+            "nombre": "Calendario Solar",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Calendario",
+            "material": "Piedra",
+            "ubicacion": [
+                "Tenochtitlan"
+            ],
+            "descripcion": "Un sistema calendárico utilizado por los mexicas, que combina ciclos solares y rituales, y es fundamental para su comprensión del tiempo, la agricultura y los rituales religiosos."
+        },
+        {
+            "nombre": "Códice Fejérváry-Mayer",
+            "civilizacion": "Mesoamericana",
+            "tipo": "Códice",
+            "material": "Papel amate",
+            "ubicacion": [
+                "México"
+            ],
+            "descripcion": "Un códice prehispánico que contiene información sobre rituales, calendarios y cosmología mesoamericana, considerado una de las obras maestras del arte prehispánico."
+        },
+        {
+            "nombre": "Calendario Lunar",
+            "civilizacion": "Maya",
+            "tipo": "Calendario",
+            "material": "Piedra",
+            "ubicacion": [      
+                "Yucatán"
+            ],
+            "descripcion": "Un sistema calendárico utilizado por los mayas, que combina ciclos lunares y rituales, y es fundamental para su comprensión del tiempo, la agricultura y los rituales religiosos."
+        },
+        {
+            "nombre": "Códice de Dresde",
+            "civilizacion": "Maya",
+            "tipo": "Códice",
+            "material": "Papel amate",
+            "ubicacion": [
+                "Dresde, Alemania"
+            ],
+            "descripcion": "Un códice maya que contiene información sobre astronomía, rituales y profecías, considerado uno de los códices más importantes y mejor conservados de la civilización maya."
+        },
+        {
+            "nombre": "Juego de Pelota",
+            "civilizacion": "Mesoamericana",
+            "tipo": "Juego",
+            "material": "Piedra y caucho",
+            "ubicacion": [
+                "Mesoamérica"
+            ],
+            "descripcion": "Un juego ritual y deportivo practicado por diversas civilizaciones mesoamericanas, que simbolizaba la lucha entre el bien y el mal, y tenía un profundo significado religioso y social."
+        },
+        {
+            "nombre": "Coyolxauhqui",
+            "civilizacion": "Mexica (Azteca)",
+            "tipo": "Deidad",
+            "material": "Piedra",
+            "ubicacion": [
+                "México"
+            ],
+            "descripcion": "Deidad mexica asociada a la luna y la guerra, representada en el famoso relieve encontrado en el Templo Mayor de Tenochtitlan."
+        },
+        {
+                "nombre": "Telpochcalli",
+                "civilizacion": "Mexica (Azteca)",
+                "tipo": "Escuela",
+                "material": "Piedra y adobe",
+                "ubicacion": [
+                    "Tenochtitlan"
+                ],
+                "descripcion": "Institución educativa mexica destinada a la formación de jóvenes en habilidades militares, cívicas y religiosas, fundamental para la educación y cohesión social del Imperio."
+        },
+        {
+            "nombre": "Pirámide de Kukulkán",
+            "civilizacion": "Maya",
+            "tipo": "Arquitectura",
+            "material": "Piedra",
+            "ubicacion": [
+                "Chichén Itzá"
+            ],
+            "descripcion": "La pirámide de Kukulkán, también conocida como El Castillo, es una de las estructuras más emblemáticas de la civilización maya, construida como un templo dedicado a la deidad serpiente Kukulkán."
+        },
+        {
+            "nombre": "Quetzalcóatl",
+            "civilizacion": "Tolteca",
+            "tipo": "Deidad",
+            "material": "Piedra",
+            "ubicacion": [
+                "Tula"
+            ],
+            "descripcion": "Una deidad importante en la mitología tolteca, representada como una serpiente emplumada, símbolo de la sabiduría, el conocimiento y la fertilidad. Su culto fue fundamental en Tula y tuvo una gran influencia en otras culturas mesoamericanas." 
+        }
+    ],
+    "eventos_historicos": [
+        {
+            "nombre": "La Noche Triste",
+            "año": 1520,
+            "descripcion": "La derrota sufrida por las tropas de Hernán Cortés el 30 de junio de 1520 al intentar escapar de Tenochtitlan. Perdieron una gran parte de sus hombres y tesoros.",
+            "actores_clave": [
+                "Hernán Cortés",
+                "Tlaxcaltecas",
+                "Mexicas"
+            ],
+            "ubicacion": "Tenochtitlan",
+            "tipo": "Batalla"
+        },
+        {
+            "nombre": "Caída de Tenochtitlan",
+            "año": 1521,
+            "descripcion": "Fin del Imperio Mexica tras el asedio liderado por Hernán Cortés y sus aliados indígenas. Marca el inicio del dominio colonial español.",
+            "actores_clave": [
+                "Cuauhtémoc",
+                "Hernán Cortés",
+                "Tlaxcaltecas"
+            ],
+            "ubicacion": "Tenochtitlan",
+            "tipo": "Conquista"
+        },
+        {
+            "nombre": "Llegada de Hernán Cortés",
+            "año": 1519,
+            "descripcion": "Desembarco de las tropas españolas lideradas por Cortés, donde fundaron la Villa Rica de la Vera Cruz y comenzaron su marcha hacia el interior de Mesoamérica.",
+            "actores_clave": [
+                "Hernán Cortés",
+                "Jerónimo de Aguilar",
+                "La Malinche"
+            ],
+            "ubicacion": "Veracruz",
+            "tipo": "Encuentro"
+        },
+        {
+            "nombre": "Encuentro con los Tlaxcaltecas",
+            "año": 1519,
+            "descripcion": "Alianzas estratégicas entre Hernán Cortés y los Tlaxcaltecas, quienes se oponían al dominio mexica, fueron clave para la conquista.",
+            "actores_clave": [
+                "Hernán Cortés",
+                "Tlaxcaltecas"
+            ],
+            "ubicacion": "Tlaxcala",
+            "tipo": "Alianza"
+        },
+        {
+            "nombre": "Fundación de Tenochtitlan",
+            "año": 1325,
+            "descripcion": "Los mexicas fundaron su capital en una isla del lago Texcoco, donde construyeron una de las ciudades más grandes y complejas de Mesoamérica.",
+            "actores_clave": [
+                "Mexicas",
+                "Moctezuma II"
+            ],
+            "ubicacion": "Valle de México",
+            "tipo": "Fundación"
+        },
+        {
+            "nombre": "Construcción de Chichén Itzá",
+            "año": 600,
+            "descripcion": "Chichén Itzá se convirtió en uno de los principales centros políticos y económicos de la civilización maya, destacándose por su arquitectura monumental.",
+            "actores_clave": [
+                "Mayas",
+                "Itzamná"
+            ],
+            "ubicacion": "Yucatán",
+            "tipo": "Construcción"
+        },
+        {
+            "nombre": "Desarrollo de Monte Albán",
+            "año": "500 a.C. - 800 d.C.",
+            "descripcion": "Monte Albán fue el centro ceremonial y político de los zapotecas, con una rica tradición arquitectónica y cultural.",
+            "actores_clave": [
+                "Zapotecas",
+                "Cocijo"
+            ],
+            "ubicacion": "Valle de Oaxaca",
+            "tipo": "Desarrollo"
+        },
+        {
+            "nombre": "Caída de Monte Albán",
+            "año": "800 d.C.",
+            "descripcion": "Declive de Monte Albán como centro político y ceremonial, marcado por cambios en las rutas comerciales y la llegada de nuevos grupos.",
+            "actores_clave": [
+                "Zapotecas",
+                "Mixtecas"
+            ],
+            "ubicacion": "Valle de Oaxaca",
+            "tipo": "Declive"
+        },
+        {
+            "nombre": "Construcción de Tula",
+            "año": "900 - 1150 d.C.",
+            "descripcion": "Tula se convirtió en el centro político y cultural de los toltecas, destacándose por sus esculturas monumentales y su influencia en otras culturas mesoamericanas.",
+            "actores_clave": [
+                "Toltecas",
+                "Quetzalcóatl"
+            ],
+            "ubicacion": "Hidalgo",
+            "tipo": "Construcción"
+        },
+        {
+            "nombre": "Fundación de la ciudad de Tikal",
+            "año": "600 a.C.",
+            "descripcion": "Tikal se convirtió en uno de los principales centros políticos y económicos de la civilización maya, destacándose por su arquitectura monumental.",
+            "actores_clave": [
+                "Mayas",
+                "Itzamná"
+            ],
+            "ubicacion": "Guatemala",
+            "tipo": "Fundación"
+        },
+        {
+            "nombre": "Construcción de la pirámide de La Venta",
+            "año": "900 a.C.",
+            "descripcion": "La pirámide de La Venta es una de las estructuras más emblemáticas de la civilización olmeca, representando su poder religioso y político.",
+            "actores_clave": [
+                "Olmecas",
+                "Dios Jaguar"
+            ],
+            "ubicacion": "Tabasco",
+            "tipo": "Construcción"
+        },
+        {
+            "nombre": "Desarrollo de la escritura jeroglífica olmeca",
+            "año": "1200 a.C.",
+            "descripcion": "Los olmecas desarrollaron uno de los primeros sistemas de escritura en Mesoamérica, que influyó en culturas posteriores.",
+            "actores_clave": [
+                "Olmecas"
+            ],
+            "ubicacion": "Golfo de México",
+            "tipo": "Desarrollo"
+        },
+        {
+            "nombre": "Construcción de la pirámide de Kukulkán",
+            "año": "1000 d.C.",
+            "descripcion": "La pirámide de Kukulkán en Chichén Itzá es un ejemplo destacado de la arquitectura maya, alineada con eventos astronómicos.",
+            "actores_clave": [
+                "Mayas",
+                "Kukulkán"
+            ],
+            "ubicacion": "Yucatán",
+            "tipo": "Construcción"
+        },
+        {
+            "nombre": "Desarrollo del sistema de chinampas",
+            "año": "1300 d.C.",
+            "descripcion": "Los mexicas desarrollaron un sistema agrícola innovador de chinampas, que les permitió cultivar en los lagos del Valle de México.",
+            "actores_clave": [
+                "Mexicas",
+                "Huitzilopochtli"
+            ],
+            "ubicacion": "Valle de México",
+            "tipo": "Desarrollo"
+        },
+        {
+            "nombre": "Construcción de la Gran Tenochtitlan",
+            "año": "1325 d.C.",
+            "descripcion": "Los mexicas fundaron la ciudad de Tenochtitlan en una isla del lago de Texcoco, que se convertiría en la capital de su imperio.",
+            "actores_clave": [
+                "Mexicas",
+                "Tenoch"
+            ],
+            "ubicacion": "Valle de México",
+            "tipo": "Construcción"
+        }
+    ],
+    "mensajes_sistema": {
+        "bienvenida": [
+            "¡Bienvenido al Recorrido Virtual del México Prehispánico!",
+            "Aquí podrás descubrir las civilizaciones antiguas, sus dioses, ciudades, códices y aportaciones.",
+            "Puedes preguntarme cosas como: '¿Quién fue Huitzilopochtli?', '¿Cuáles eran los dioses mayas?' o 'Hazme una trivia'."
+        ],
+        "ayuda": [
+            "¿Sobre qué tema te gustaría saber más? Puedes decirme: 'civilizaciones', 'dioses', 'códices' o 'conquista'.",
+            "Si deseas interactuar, puedes decir: 'Hazme una pregunta' y te lanzo una trivia.",
+            "También puedes decir: 'Recomiéndame algo' y te mostraré un tema al azar."
+        ],
+        "despedida": [
+            "¡Gracias por explorar el pasado con nosotros!",
+            "Que los dioses de Mesoamérica te acompañen en tu camino.",
+            "Nos vemos pronto. ¡Regresa cuando quieras aprender más!"
+        ],
+        "respuesta_invalida": [
+            "Hmm... no entendí muy bien eso. ¿Podrías preguntarlo de otra forma?",
+            "¿Estás buscando información sobre alguna civilización, dios o evento?",
+            "Puedes preguntarme, por ejemplo: '¿Qué es el códice Borgia?' o 'Dime un dios de la lluvia'."
+        ],
+        "reanudacion": [
+            "¡Qué bueno que regresaste! Estoy listo para contarte más sobre nuestro pasado.",
+            "Bienvenido de nuevo al mundo prehispánico. ¿Qué te gustaría saber ahora?",
+            "¿Te interesa continuar con más preguntas, datos o un nuevo reto?"
+        ],
+        "agradecimientos": [
+            "¡Con gusto! Estoy aquí para ayudarte a descubrir más sobre el México antiguo.",
+            "Es un placer acompañarte en este viaje histórico.",
+            "Gracias a ti por tu interés. ¿Deseas saber algo más?",
+            "¡Estoy feliz de poder ayudarte! ¿Seguimos explorando?"
+        ]
+    },
+    "biografias": [
+        {
+            "nombre": "Hernán Cortés",
+            "rol": "Conquistador español",
+            "periodo": "1485 – 1547",
+            "descripcion": "Líder de la expedición que causó la caída del Imperio Mexica. Fundador de la Villa Rica de la Vera Cruz. Utilizó alianzas indígenas para derrotar a Tenochtitlan."
+        },
+        {
+            "nombre": "Moctezuma II",
+            "rol": "Emperador mexica",
+            "periodo": "c. 1466 – 1520",
+            "descripcion": "Emperador durante la llegada de los españoles. Su reinado vio el apogeo del Imperio Mexica, pero también su caída tras la llegada de Hernán Cortés."
+        },
+        {
+            "nombre": "La Malinche",
+            "rol": "Interprete e intermediaria",
+            "periodo": "c. 1500 – c. 1529",
+            "descripcion": "Mujer indígena también conocida como Doña Marina o Malintzin que sirvió de intérprete, guía y consejera de Hernán Cortés. Jugó un papel clave en la conquista al facilitar la comunicación con otros pueblos mesoamericanos."
+        },
+        {
+            "nombre": "Cuauhtémoc",
+            "rol": "Último emperador mexica",
+            "periodo": "c. 1496 – 1525",
+            "descripcion": "Sucesor de Moctezuma II. Dirigió la resistencia durante el asedio de Tenochtitlan y fue capturado en 1521. Símbolo de valentía y lucha."
+        },
+        {
+            "nombre": "Nezahualcóyotl",
+            "rol": "Rey-poeta de Texcoco",
+            "periodo": "1402 – 1472",
+            "descripcion": "Un destacado gobernante y poeta del periodo posclásico. Conocido por su sensibilidad estética, su amor por la naturaleza y su influencia en la cultura mexica."
+        },
+        {
+            "nombre": "Ahuízotl",
+            "rol": "Emperador mexica",
+            "periodo": "c. 1486 – 1502",
+            "descripcion": "Emperador durante el apogeo del Imperio Mexica. Conocido por sus campañas militares y la expansión territorial."
+        }
+    ],
+    "datos_curiosos": [
+        {
+            "tema": "mexicas",
+            "contenido": "Los mexicas creían que el mundo había sido creado y destruido varias veces, y que vivíamos en el 'Quinto Sol'."
+        },
+        {
+            "tema": "olmecas",
+            "contenido": "Los olmecas construyeron cabezas colosales de más de 3 metros talladas en una sola piedra de basalto traída desde kilómetros de distancia."
+        },
+        {
+            "tema": "mayas",
+            "contenido": "El calendario maya de cuenta larga predijo un ciclo que terminó en 2012, lo que llevó a rumores sobre el 'fin del mundo'."
+        },
+        {
+            "tema": "conquista",
+            "contenido": "Durante la Noche Triste, los españoles perdieron casi la mitad de sus hombres mientras huían por los canales de Tenochtitlan."
+        },
+        {
+            "tema": "civilizaciones",
+            "contenido": "Los zapotecas desarrollaron un sistema de escritura logosilábica, uno de los primeros en Mesoamérica, que se utilizó para registrar eventos históricos y rituales."
+        },
+        {
+            "tema": "arquitectura",
+            "contenido": "Las pirámides mesoamericanas no solo eran tumbas, sino también centros ceremoniales y observatorios astronómicos."
+        },
+        {
+            "tema": "arte",
+            "contenido": "El arte mesoamericano es conocido por su diversidad y riqueza, incluyendo esculturas, cerámicas y murales que reflejan la vida y creencias de sus culturas."
+        },
+        {
+            "tema": "códices",
+            "contenido": "Los códices prehispánicos eran libros hechos de piel de venado o papel amate, que contenían información sobre historia, religión y rituales."
+        },
+        {
+            "tema": "dioses",
+            "contenido": "Los dioses mesoamericanos eran representados con rasgos animales y humanos, simbolizando sus poderes y atributos. Por ejemplo, Tláloc tenía colmillos y ojos grandes para representar la lluvia."
+        },
+        {
+            "tema": "lenguas",
+            "contenido": "El náhuatl, hablado por los mexicas, es una de las lenguas indígenas más habladas en México hoy en día, con más de un millón de hablantes."
+        },
+        {
+            "tema": "sacrificios",
+            "contenido": "Los sacrificios humanos eran una parte integral de la religión mesoamericana, realizados para apaciguar a los dioses y asegurar la continuidad del mundo."
+        },
+        {
+            "tema": "comercio",
+            "contenido": "Las rutas comerciales mesoamericanas conectaban diversas culturas, permitiendo el intercambio de bienes como cacao, jade, plumas y textiles."
+        },
+        {
+            "tema": "calendarios",
+            "contenido": "Los mayas desarrollaron un calendario de 260 días y otro solar de 365, mientras que otras culturas también emplearon sistemas calendáricos."
+        },
+        {
+            "tema": "chinampas",
+            "contenido": "Los mexicas utilizaron las chinampas, islas artificiales, para cultivar en zonas lacustres, una técnica agrícola eficiente y sostenible."
+        },
+        {
+            "tema": "arquitectura",
+            "contenido": "Las ciudades mesoamericanas estaban diseñadas con una planificación urbana avanzada, incluyendo plazas, templos y sistemas de drenaje."
+        },
+        {
+            "tema": "mitología",
+            "contenido": "Las leyendas mesoamericanas explicaban fenómenos naturales y eventos históricos, como la creación del mundo y la llegada de los españoles."
+        },
+        {
+            "tema": "juegos",
+            "contenido": "Este deporte ritual y sagrado, conocido como 'pok-ta-pok' por los mayas, tenía connotaciones religiosas y espirituales, y utilizaba caderas y codos para golpear la pelota."
+        },
+        {
+            "tema": "astronomía",
+            "contenido": "Los mayas eran expertos astrónomos y construyeron observatorios para estudiar los movimientos de los astros y crear calendarios precisos."
+        },
+        {
+            "tema": "cultura",
+            "contenido": "Las culturas mesoamericanas tenían una rica tradición oral, transmitiendo historias, mitos y conocimientos a través de generaciones."
+        },
+        {
+            "tema": "religión",
+            "contenido": "Creían en varios dioses relacionados con la naturaleza, como el agua, el fuego y la serpiente emplumada, entre otros."
+        },
+        {
+            "tema": "Nezahualcóyotl",
+            "contenido": "El rey-poeta de Texcoco fue un ejemplo de gobernante humanista, conocido por su sensibilidad estética y amor por la naturaleza, reflejada en su obra y en la arquitectura de su ciudad."
+        },
+        {
+            "tema": "Tenochtitlan",
+            "contenido": "La capital mexica, construida sobre un lago, era una ciudad impresionante con templos, palacios y una compleja red de canales."
+        },
+        {
+            "tema": "Tula",
+            "contenido": "La ciudad tolteca de Tula fue un importante centro político y cultural, famosa por sus esculturas monumentales y su influencia en otras culturas mesoamericanas."
+        },
+        {
+            "tema": "Chichén Itzá",
+            "contenido": "Chichén Itzá es famosa por su pirámide de Kukulkán, un ejemplo destacado de la arquitectura maya, alineada con eventos astronómicos."
+        },
+        {
+            "tema": "Coyolxauhqui",
+            "contenido": "La diosa mexica de la luna, representada en un relieve monumental en el Templo Mayor de Tenochtitlan, simboliza la dualidad de la vida y la muerte."
+        },
+        {
+            "tema": "Códice Borgia",
+            "contenido": "Un códice prehispánico lleno de símbolos y rituales, que proporciona una visión única de la cosmología y la religión mesoamericana."
+        },
+        {
+            "tema": "Telpochcalli",
+            "contenido": "Era una escuela mexica para jóvenes de clases bajas, donde se enseñaban habilidades militares, religiosas y cívicas, preparando a los jóvenes para su papel en la sociedad."
+        },
+        {
+            "tema": "Guerrero Águila",
+            "contenido": "El guerrero águila era un rango militar de élite en la sociedad mexica, compuesto por los guerreros más valientes y exitosos en combate."
+        },
+        {
+            "tema": "Guerrero Jaguar",
+            "contenido": "El guerrero jaguar era otro rango militar de élite en la sociedad mexica, conocido por su ferocidad en la batalla y su conexión con el jaguar, un símbolo de poder y fuerza."
+        }
+    ]
+}
