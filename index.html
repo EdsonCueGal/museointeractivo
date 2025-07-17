@@ -2,6 +2,38 @@
 <html lang="es">
 
 <head>
+
+  <!-- Título de la página -->
+  <meta property="og:title" content="Museo Virtual Interactivo del México Prehispánico" />
+
+  <!-- Descripción de la página -->
+  <meta property="og:description"
+    content="Museo Virtual Interactivo del México Prehispánico que cuenta con una IA que te responde con voz a preguntas relacionadas con el México Prehispánico." />
+
+  <!-- URL de la página -->
+  <meta property="og:url" content="https://edsoncuegal.github.io/museointeractivo/" />
+
+  <!-- Tipo de contenido (generalmente 'website' para páginas web) -->
+  <meta property="og:type" content="Sitio Web" />
+
+  <!-- URL de la imagen que se compartirá -->
+  <meta property="og:image" content="https://edsoncuegal.github.io/museointeractivo/assets/icon.png" />
+
+  <!-- Dimensiones de la imagen (opcional pero recomendable) -->
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Nombre del sitio web (opcional) -->
+  <meta property="og:site_name" content="Museo Virtual Interactivo del México Prehispánico" />
+
+  <!-- Idioma de la página (opcional) -->
+  <meta property="og:locale" content="es_ES" />
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description"
+    content="Museo Virtual Interactivo del México Prehispánico que cuenta con una IA que te responde con voz a preguntas relacionadas con el México Prehispánico." />
+  <meta name="author" content="Edson Cuello Galván" />
   <meta charset="UTF-8">
   <title>Museo Virtual Interactivo del México Prehispánico</title>
   <link rel="icon" type="image/png" href="assets/icon.png">
@@ -124,33 +156,35 @@
 
 
   <div id="asistente-container"></div>
-    <div class="modal" id="modalTrivia">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 id="preguntaTrivia" class="modal-title">Pregunta</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <input type="text" class="form-control" id="respuestaTrivia" placeholder="Escribe tu respuesta" />
-            <p id="retroTrivia" style="margin-top: 10px;"></p>
-          </div>
-          <div class="modal-footer">
-            <button onclick="cerrarModalTrivia()" type="button" class="btn btn-secondary"
-              data-bs-dismiss="modal">Cerrar</button>
-            <button id="verificarTrivia" type="button" class="btn btn-dark">Verificar</button>
-          </div>
+  <div class="modal" id="modalTrivia">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 id="preguntaTrivia" class="modal-title">Pregunta</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <input type="text" class="form-control" id="respuestaTrivia" placeholder="Escribe tu respuesta" />
+          <p id="retroTrivia" style="margin-top: 10px;"></p>
+        </div>
+        <div class="modal-footer">
+          <button onclick="cerrarModalTrivia()" type="button" class="btn btn-secondary"
+            data-bs-dismiss="modal">Cerrar</button>
+          <button id="verificarTrivia" type="button" class="btn btn-dark">Verificar</button>
         </div>
       </div>
     </div>
+  </div>
 
-  <div style="position: fixed; bottom: 0; left: 10%; width: 100%; height: 40px; color: white; display: flex; align-items: center; justify-content: center; z-index: 9999; flex-direction: column;">
-    <footer >
-        <p>Desarrollado por <a href="https://github.com/EdsonCueGal" target="_blank">Edson Cuello Galván</a> &copy; 2025 Museo Virtual Interactivo del México Prehispánico. Todos los derechos reservados.</p>
+  <div
+    style="position: fixed; bottom: 0; left: 10%; width: 100%; height: 40px; color: white; display: flex; align-items: center; justify-content: center; z-index: 9999; flex-direction: column;">
+    <footer>
+      <p>Desarrollado por <a href="https://github.com/EdsonCueGal" target="_blank">Edson Cuello Galván</a> &copy; 2025
+        Museo Virtual Interactivo del México Prehispánico. Todos los derechos reservados.</p>
     </footer>
   </div>
 
-    <script src="js/main.js" defer></script>
+  <script src="js/main.js" defer></script>
 </body>
 
 </html>
