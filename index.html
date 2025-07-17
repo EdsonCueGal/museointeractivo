@@ -59,7 +59,8 @@
   </div>
 
   <a-scene cursor="rayOrigin: mouse">
-    <a-entity camera look-controls wasd-controls position="0 1.6 0">
+
+    <a-entity camera look-controls touch-controls wasd-controls position="0 1.6 0">
       <a-entity cursor="fuse: false; fuseTimeout: 500" position="0 0 -1"
         geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03" material="color: red; shader: flat">
       </a-entity>
@@ -78,7 +79,6 @@
       </a-entity>
     </a-entity>
 
-    //Estructura del museo
     <a-box static-body position="-3.15 1.5 -1.5" rotation="0 0 0" width=".3" height="3" depth="12"
       material="src: assets/pared.jpg"></a-box>
     <a-box static-body position="3.15 1.5 -1.5" rotation="0 0 0" width=".3" height="3" depth="12"
